@@ -5,7 +5,7 @@ mongodb-database: melita
 gateway-service-port: 5000
 
 order-tracking-service-host: http://localhost
-order-tracking-service-port: 5001
+order-tracking-service-port: 5010
 
 care-system-port: 5002
 
