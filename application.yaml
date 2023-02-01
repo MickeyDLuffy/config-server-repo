@@ -15,3 +15,5 @@ authorization-server-host: http://localhost
 authorization-server-port: 5004
 
 config-server-port: 5005
+
+order-kafka-topic: orders
